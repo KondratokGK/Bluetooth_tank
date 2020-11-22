@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Component Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'LISA`S_BOT' 
+ * Project: 'Bluetooth_tank' 
  * Target:  'Target 1' 
  */
 
